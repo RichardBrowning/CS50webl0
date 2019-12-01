@@ -1,0 +1,1479 @@
+.sys_data_title_time {
+	
+}
+.sys_data_title_time .time {
+	FLOAT: right
+}
+.sys_data_title_time_more {
+	
+}
+.sys_data_title_time_more .time {
+	FLOAT: right
+}
+.sys_data_title_time_more .more {
+	FLOAT: right
+}
+.sys_data_title_desc {
+	
+}
+.sys_data_title_desc UL {
+	
+}
+.sys_data_title_desc H3 {
+	PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_title_desc P {
+	FONT-SIZE: 12px; BORDER-TOP: #dedede 0px dashed; BORDER-RIGHT: #dedede 0px dashed; BORDER-BOTTOM: #dedede 1px dashed; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; BORDER-LEFT: #dedede 0px dashed; PADDING-RIGHT: 5px; TEXT-INDENT: 2em
+}
+.sys_data_title_desc_list_time {
+	
+}
+.sys_data_title_desc_list_time .title {
+	
+}
+.sys_data_title_desc_list_time .time {
+	FLOAT: right
+}
+.sys_data_title_desc_list_time H3 {
+	PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_title_desc_list_time P {
+	FONT-SIZE: 12px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; TEXT-INDENT: 2em
+}
+.sys_data_title_desc_list_time UL {
+	BORDER-TOP: #ccc 1px dashed; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_title_desc_list_time .more {
+	
+}
+.sys_data_title_author {
+	
+}
+.sys_data_title_author UL {
+	BORDER-TOP: blue 0px solid; BORDER-RIGHT: blue 0px solid; WIDTH: 100%; BORDER-BOTTOM: blue 0px solid; BORDER-LEFT: blue 0px solid
+}
+.sys_data_title_author LI A {
+	HEIGHT: 24px
+}
+.sys_data_title_author .author {
+	FLOAT: right
+}
+.sys_data_part_title {
+	
+}
+.sys_data_part_title TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_part_title TR {
+	HEIGHT: 24px
+}
+.sys_data_part_title_time {
+	
+}
+.sys_data_part_title_time .time {
+	FLOAT: right
+}
+.sys_data_twolist {
+	
+}
+.sys_data_twolist TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_twolist TR {
+	HEIGHT: 24px
+}
+.sys_data_twolist .title {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.sys_data_title_list {
+	
+}
+.sys_data_title_list LI {
+	LINE-HEIGHT: 24px
+}
+.sys_data_headline {
+	
+}
+.sys_data_headline LI {
+	TEXT-ALIGN: center
+}
+.sys_data_headline LI H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_headline_twolist {
+	
+}
+.sys_data_headline_twolist H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_headline_twolist {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_headline_twolist TABLE TD {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_headline_twolist .title {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.sys_data_headline_list_time {
+	
+}
+.sys_data_headline_list_time H3 {
+	PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_headline_list_time .time {
+	FLOAT: right
+}
+.sys_data_title_desc_twolist {
+	
+}
+.sys_data_title_desc_twolist H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_title_desc_twolist P {
+	TEXT-INDENT: 2em
+}
+.sys_data_title_desc_twolist TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_title_desc_twolist TABLE TD {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_title_desc_twolist .title {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.sys_data_img_rtitle {
+	
+}
+.sys_data_img_rtitle TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_img_rtitle LI {
+	BORDER-BOTTOM: #dedede 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px
+}
+.sys_data_img_rtitle .dl {
+	MARGIN: 0px auto
+}
+.sys_data_img_rtitle H3 {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_img_title {
+	
+}
+.sys_data_img_title DL {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.sys_data_img_title DL DT {
+	CLEAR: both
+}
+.sys_data_img_title DL DD {
+	FONT-SIZE: 12px; HEIGHT: 20px; TEXT-ALIGN: center; CLEAR: both; DISPLAY: block; LINE-HEIGHT: 20px
+}
+.sys_data_img_title .time {
+	FLOAT: right
+}
+.sys_data_img_title IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_title_list {
+	
+}
+.sys_data_img_title_list DL {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.sys_data_img_title_list DL DT IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_title_list DL DD {
+	FONT-SIZE: 12px
+}
+.sys_data_img_title_list .list {
+	BORDER-TOP: #dedede 1px dashed; PADDING-TOP: 5px
+}
+.sys_data_img_title_list .list LI {
+	WIDTH: 100%
+}
+.sys_data_img_title_desc {
+	
+}
+.sys_data_img_title_desc LI {
+	BORDER-BOTTOM: #dedede 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_img_title_desc TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_img_title_desc DL {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.sys_data_img_title_desc DL DT IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_title_desc DL DD {
+	FONT-SIZE: 12px
+}
+.sys_data_img_title_desc H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_img_title_desc .img_info {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 6px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sys_data_img_title_desc P {
+	FONT-SIZE: 12px; TEXT-INDENT: 2em
+}
+.sys_data_img_title_desc_list_time {
+	
+}
+.sys_data_img_title_desc_list_time .img_title_desc {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_img_title_desc_list_time .img_title_desc TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_img_title_desc_list_time .img_title_desc DL {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.sys_data_img_title_desc_list_time .img_title_desc DL DT IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_title_desc_list_time .img_title_desc DL DD {
+	FONT-SIZE: 12px
+}
+.sys_data_img_title_desc_list_time .img_title_desc H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_img_title_desc_list_time .img_title_desc .img_info {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 6px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sys_data_img_title_desc_list_time .img_title_desc P {
+	FONT-SIZE: 12px; TEXT-INDENT: 2em
+}
+.sys_data_img_title_desc_list_time .list {
+	BORDER-TOP: #dedede 1px dashed; PADDING-BOTTOM: 0px; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_img_title_desc_list_time .list .time {
+	FLOAT: right
+}
+.sys_data_img_rlist {
+	
+}
+.sys_data_img_rlist TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_img_rlist DL {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.sys_data_img_rlist DL DT IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_rlist DL DD {
+	FONT-SIZE: 12px
+}
+.sys_data_img_rlist .list {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_img_rlist .list LI {
+	
+}
+.sys_data_img_headline_list {
+	
+}
+.sys_data_img_headline_list TABLE {
+	WIDTH: 100%; TABLE-LAYOUT: fixed
+}
+.sys_data_img_headline_list DL {
+	TEXT-ALIGN: center; MARGIN: 0px auto
+}
+.sys_data_img_headline_list DL DT IMG {
+	BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; PADDING-RIGHT: 2px
+}
+.sys_data_img_headline_list DL DD {
+	FONT-SIZE: 12px
+}
+.sys_data_img_headline_list H3 {
+	TEXT-ALIGN: center; PADDING-LEFT: 5px
+}
+.sys_data_img_headline_list .img_info {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 6px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sys_data_img_headline_list P {
+	FONT-SIZE: 12px
+}
+.sys_data_limg_ltitle_ldesc_d2list {
+	
+}
+.sys_data_limg_ltitle_ldesc_d2list P {
+	FONT-SIZE: 12px; TEXT-INDENT: 2em
+}
+.sys_data_limg_ltitle_ldesc_d2list H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_limg_ltitle_ldesc_d2list .top_info {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_limg_ltitle_ldesc_d2list .other_list {
+	PADDING-TOP: 5px
+}
+.sys_data_limg_ltitle_ldesc_d2list .other_list SPAN {
+	FLOAT: right
+}
+.sys_data_limg_ltitle_ldesc_d2list TABLE TD {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_ltitle_ldesc_rimg {
+	
+}
+.sys_data_ltitle_ldesc_rimg LI {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_ltitle_ldesc_rimg P {
+	FONT-SIZE: 12px; TEXT-INDENT: 2em
+}
+.sys_data_img_list_ptitle {
+	
+}
+.sys_data_img_list_ptitle LI {
+	OVERFLOW: hidden; FLOAT: left; PADDING-BOTTOM: 10px; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 12px; DISPLAY: inline; LINE-HEIGHT: 24px; PADDING-RIGHT: 12px
+}
+.sys_data_img_list_ptitle .img_info {
+	OVERFLOW: hidden; HEIGHT: 90px; WIDTH: 120px; POSITION: relative; MARGIN: 10px auto 0px
+}
+.sys_data_img_list_ptitle P {
+	OVERFLOW: hidden; WORD-WRAP: break-word; HEIGHT: 24px; WIDTH: 100%; POSITION: absolute; TEXT-ALIGN: center; LEFT: 0px; Z-INDEX: 2; LINE-HEIGHT: 24px; BOTTOM: 0px
+}
+.sys_data_img_list_ptitle P A {
+	COLOR: white !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_img_list_ptitle SPAN {
+	HEIGHT: 24px; WIDTH: 100%; BACKGROUND: black; POSITION: absolute; LEFT: 0px; FILTER: alpha(opacity=50); Z-INDEX: 1; DISPLAY: block; BOTTOM: 0px; -moz-opacity: 0.5; -khtml-opacity: 0.5; opacity: 0.5
+}
+.sys_data_limg_rtitle_rdesc_ritem {
+	
+}
+.sys_data_limg_rtitle_rdesc_ritem LI {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_limg_rtitle_rdesc_ritem .r_info {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px
+}
+.sys_data_limg_rtitle_rdesc_ritem .r_info H3 {
+	LINE-HEIGHT: 30px
+}
+.sys_data_limg_rtitle_rdesc_ritem .r_info P {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px
+}
+.sys_data_limg_rtitle_rdesc_ritem .item {
+	
+}
+.sys_data_limg_rtitle_rdesc_ritem .item A {
+	FLOAT: left
+}
+.sys_data_limg_rtitle_rdesc_ritem .item .bt {
+	HEIGHT: 25px; WIDTH: 71px; BACKGROUND: #666; COLOR: #fff; TEXT-ALIGN: center; LINE-HEIGHT: 25px
+}
+.sys_data_limg_rtitle_rdesc_ritem .item .bt A {
+	TEXT-DECORATION: none; COLOR: #fff
+}
+.sys_data_limg_rtitle_rdesc_ritem .item A.author {
+	BACKGROUND: url(g/yh.gif) no-repeat 0px 4px; PADDING-LEFT: 20px; MARGIN: 0px 0px 0px 6px
+}
+.sys_data_limg_rtitle_rdesc_ritem .item A.comment {
+	BACKGROUND: url(g/pl.gif) no-repeat 0px 7px; PADDING-LEFT: 20px; MARGIN: 0px 0px 0px 6px
+}
+.sys_data_limg_rtitle_rdesc_ritem .item A.pubDate {
+	BACKGROUND: url(g/time.gif) no-repeat 0px 6px; PADDING-LEFT: 20px; MARGIN: 0px 0px 0px 6px
+}
+.sys_data_img_ddesc_dlist {
+	
+}
+.sys_data_img_ddesc_dlist DL {
+	MARGIN: 0px auto
+}
+.sys_data_video_title {
+	
+}
+.sys_data_video_title DL {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.sys_data_video_title DL DT {
+	CLEAR: both
+}
+.sys_data_video_title DL DD {
+	FONT-SIZE: 12px; HEIGHT: 20px; TEXT-ALIGN: center; CLEAR: both; DISPLAY: block; LINE-HEIGHT: 20px
+}
+.sys_data_video_title .time {
+	FLOAT: right
+}
+.sys_data_video_title .video_images {
+	FLOAT: left
+}
+.sys_data_video_title .video_images IMG {
+	OVERFLOW: hidden
+}
+.sys_data_video_title .video_images A {
+	POSITION: relative
+}
+.sys_data_video_title .video_images A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_title .video_images A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_title .video_images A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_title .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+* HTML .sys_data_video_title P {
+	FONT-SIZE: 12px
+}
+.sys_data_video_title .video_images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title .video_images A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_title .video_images A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title .video_images A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_title .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list {
+	
+}
+.sys_data_video_list DL {
+	MARGIN: 0px auto
+}
+.sys_data_video_list .video_images {
+	FLOAT: left
+}
+.sys_data_video_list .video_images IMG {
+	OVERFLOW: hidden
+}
+.sys_data_video_list DD {
+	FONT-SIZE: 12px; TEXT-ALIGN: center; CLEAR: both; DISPLAY: block
+}
+.sys_data_video_list .time {
+	FLOAT: right
+}
+.sys_data_video_list .video_images A {
+	POSITION: relative
+}
+.sys_data_video_list .video_images A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_list .video_images A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_list .video_images A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; FLOAT: left; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_list .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_list .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_list .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list .video_images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_list .video_images A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_list .video_images A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_list .video_images A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_list .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+* HTML .sys_data_video_list .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_list .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_list .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_list .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_list .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_list .video_list {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 6px; DISPLAY: block; PADDING-RIGHT: 0px
+}
+.sys_data_video_list .video_list LI {
+	DISPLAY: block
+}
+.sys_data_video_title_desc {
+	
+}
+.sys_data_video_title_desc DL {
+	MARGIN: 0px auto
+}
+.sys_data_video_title_desc .video_title_desc {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 5px; BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 5px
+}
+.sys_data_video_title_desc P {
+	TEXT-ALIGN: center
+}
+.sys_data_video_title_desc .video_desc {
+	TEXT-INDENT: 2em
+}
+.sys_data_video_title_desc .video_images {
+	POSITION: relative; MARGIN: 0px auto
+}
+.sys_data_video_title_desc .video_images IMG {
+	OVERFLOW: hidden; DISPLAY: block
+}
+.sys_data_video_title_desc .video_images A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title_desc .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title_desc .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title_desc .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title_desc .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc_list {
+	
+}
+.sys_data_video_title_desc_list DL {
+	MARGIN: 0px auto
+}
+.sys_data_video_title_desc_list DD {
+	TEXT-ALIGN: center
+}
+.sys_data_video_title_desc_list .video_title_desc {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 5px; BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 5px
+}
+.sys_data_video_title_desc_list .video_desc {
+	TEXT-INDENT: 2em
+}
+.sys_data_video_title_desc_list .video_images {
+	POSITION: relative; MARGIN: 0px auto
+}
+.sys_data_video_title_desc_list .video_images IMG {
+	OVERFLOW: hidden; DISPLAY: block
+}
+.sys_data_video_title_desc_list .video_images A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title_desc_list .video_images A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_title_desc_list .video_images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_title_desc_list .video_images A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_title_desc_list .video_images A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_video_rtitle_rabs .video_rtitle_rabs {
+	PADDING-LEFT: 133px
+}
+.sys_data_video_rtitle_rabs .video_rtitle_rabs H3 {
+	TEXT-ALIGN: center
+}
+.sys_data_video_rtitle_rabs .video_rtitle_rabs .video_rabs {
+	TEXT-INDENT: 2em
+}
+.sys_data_video_rtitle_rabs .video_limages {
+	POSITION: relative; FLOAT: left
+}
+.sys_data_video_rtitle_rabs .video_limages IMG {
+	OVERFLOW: hidden; DISPLAY: block
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs .video_limages A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs_list {
+	
+}
+.sys_data_video_rtitle_rabs_list .video_info {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 5px; MIN-HEIGHT: 95px; PADDING-RIGHT: 5px
+}
+.sys_data_video_rtitle_rabs_list .video_blist {
+	BORDER-TOP: #ccc 1px dashed; PADDING-TOP: 10px
+}
+.sys_data_video_rtitle_rabs_list .video_blist .time {
+	FLOAT: right
+}
+.sys_data_video_rtitle_rabs_list .video_blist .column {
+	FLOAT: left
+}
+.sys_data_video_rtitle_rabs_list .video_rtitle_rabs {
+	FONT-SIZE: 12px; PADDING-LEFT: 130px
+}
+.sys_data_video_rtitle_rabs_list .video_rtitle_rabs P {
+	TEXT-ALIGN: center
+}
+.sys_data_video_rtitle_rabs_list .video_rtitle_rabs P A {
+	FONT-WEIGHT: bold
+}
+.sys_data_video_rtitle_rabs_list .video_rtitle_rabs .video_rabs {
+	TEXT-INDENT: 2em
+}
+.sys_data_video_rtitle_rabs_list .video_limages {
+	POSITION: relative; FLOAT: left
+}
+.sys_data_video_rtitle_rabs_list .video_limages IMG {
+	OVERFLOW: hidden; BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: #dedede 1px solid; DISPLAY: block; PADDING-RIGHT: 2px
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lt {
+	LEFT: 10px; TOP: 10px
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rb {
+	RIGHT: 10px; BOTTOM: 10px
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rt {
+	RIGHT: 10px; TOP: 10px
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: url(g/video/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_off_1.png")
+}
+* HTML .sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_lt SPAN.lt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_rb SPAN.rb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_rtitle_rabs_list .video_limages A:hover SPAN.play_button_rt SPAN.rt {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/play_rec_on_1.png")
+}
+.sys_data_video_square {
+	
+}
+.sys_data_video_square DL {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.sys_data_video_square DT {
+	POSITION: relative
+}
+.sys_data_video_square DT P {
+	HEIGHT: 20px; WIDTH: 100%; BACKGROUND: #000; POSITION: absolute; COLOR: #fff !important; TEXT-ALIGN: center; LEFT: 0px; FILTER: alpha(opacity=50); Z-INDEX: 2; LINE-HEIGHT: 20px; BOTTOM: 0px; -moz-opacity: 0.5; -khtml-opacity: 0.5; opacity: 0.5
+}
+.sys_data_video_square DT .title {
+	HEIGHT: 20px; WIDTH: 100%; POSITION: absolute; COLOR: #fff !important; TEXT-ALIGN: center; LEFT: 0px; Z-INDEX: 2; LINE-HEIGHT: 20px; BOTTOM: 0px
+}
+.sys_data_video_square DT A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_square DT A SPAN.play_button_cm {
+	POSITION: absolute; LEFT: 50%; TOP: 50%
+}
+.sys_data_video_square DT A SPAN.play_button_cm SPAN {
+	CURSOR: pointer; POSITION: relative; LEFT: -50%; TOP: -50%
+}
+.sys_data_video_square DT A SPAN {
+	HEIGHT: 32px; WIDTH: 33px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_video_square DT A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/video_play.png) no-repeat center center
+}
+.sys_data_video_square DT A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: url(g/video/video_play_on.png) no-repeat center center
+}
+* HTML .sys_data_video_square DT A SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/video_play.png")
+}
+* HTML .sys_data_video_square DT A:hover SPAN.play_button_cm SPAN.cm {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="g/video/video_play_on.png")
+}
+.sys_data_v_img_list {
+	
+}
+.sys_data_v_img_list .v_img {
+	WIDTH: 105px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+}
+.sys_data_v_img_list .v_img A {
+	OVERFLOW: hidden; WIDTH: 100px; BACKGROUND: url(g/video/v_bg.png) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 3px
+}
+.sys_data_v_img_list .v_img A:hover {
+	BACKGROUND: url(g/video/v_bg.png) no-repeat 0px -150px
+}
+.sys_data_v_img_list .v_img .v_l_img {
+	HEIGHT: 92px; WIDTH: 100px; DISPLAY: block
+}
+.sys_data_v_img_list .v_img .v_l_img IMG {
+	HEIGHT: 75px; WIDTH: 100px
+}
+.sys_data_v_img_list .v_img .v_l_title {
+	HEIGHT: 20px; WIDTH: 105px; TEXT-ALIGN: center; DISPLAY: block; LINE-HEIGHT: 20px
+}
+.sys_data_video_limg_ricon_list {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_video_limg_ricon_list .images_td {
+	WIDTH: 105px
+}
+.sys_data_video_limg_ricon_list .v_img {
+	MARGIN: 5px 0px 0px
+}
+.sys_data_video_limg_ricon_list .v_img A {
+	OVERFLOW: hidden; WIDTH: 100px; BACKGROUND: url(g/video/v_bg.png) no-repeat left top; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 3px
+}
+.sys_data_video_limg_ricon_list .v_img A:hover {
+	BACKGROUND: url(g/video/v_bg.png) no-repeat 0px -150px
+}
+.sys_data_video_limg_ricon_list .v_img .v_l_img {
+	HEIGHT: 92px; WIDTH: 100px; FLOAT: left
+}
+.sys_data_video_limg_ricon_list .v_img .v_l_img IMG {
+	HEIGHT: 75px; WIDTH: 100px
+}
+.sys_data_video_limg_ricon_list .v_img .v_l_title {
+	HEIGHT: 20px; LINE-HEIGHT: 20px
+}
+.sys_data_video_limg_ricon_list .v_list {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 0px
+}
+.sys_data_video_limg_ricon_list .v_list LI {
+	OVERFLOW: hidden; HEIGHT: 24px; BACKGROUND: url(g/video/i.png) no-repeat 0px -88px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 20px; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list {
+	
+}
+.sys_data_num_video_title_list .list_info {
+	POSITION: relative
+}
+.sys_data_num_video_title_list .list_info .num_info {
+	HEIGHT: 13px; POSITION: absolute; FLOAT: left; TOP: 45%
+}
+.sys_data_num_video_title_list .list_info .num_info IMG {
+	POSITION: relative; TOP: -50%
+}
+.sys_data_num_video_title_list .list_info .text_info {
+	PADDING-LEFT: 25px
+}
+.sys_data_num_video_title_list .list_info_h {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list .list_info_h .num_info {
+	FLOAT: left; PADDING-TOP: 5px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; MIN-HEIGHT: 96px; PADDING-RIGHT: 10px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images {
+	POSITION: relative; FLOAT: left; MARGIN-LEFT: 8px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images IMG {
+	OVERFLOW: hidden; MAX-WIDTH: 900px; HEIGHT: 90px; WIDTH: 120px; DISPLAY: block; MAX-HEIGHT: 662px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images A SPAN {
+	MAX-WIDTH: 900px; HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block; MAX-HEIGHT: 662px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/ranking/img_004/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/ranking/img_004/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_num_video_title_list .list_info_h .headline_info .images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="../images/img_004/play_rec_off_1.png")
+}
+* HTML .sys_data_num_video_title_list .list_info_h .headline_info .images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="../images/img_004/play_rec_on_1.png")
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .headline_title {
+	MARGIN-LEFT: 145px
+}
+.sys_data_num_video_title_list .list_info_h .headline_info .headline_title .par {
+	COLOR: #fa8a00
+}
+.sys_data_num_video_title_list .xline {
+	BORDER-BOTTOM: #dbdbdb 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list_line {
+	
+}
+.sys_data_num_video_title_list_line .list_info {
+	POSITION: relative
+}
+.sys_data_num_video_title_list_line .list_info .num_info {
+	HEIGHT: 13px; POSITION: absolute; FLOAT: left; TOP: 40%
+}
+.sys_data_num_video_title_list_line .list_info .num_info IMG {
+	POSITION: relative; TOP: -50%
+}
+.sys_data_num_video_title_list_line .list_info .text_info {
+	PADDING-LEFT: 25px
+}
+.sys_data_num_video_title_list_line .list_info .text_info .pre {
+	FLOAT: right; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list_line .list_info_h {
+	PADDING-BOTTOM: 8px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list_line .list_info_h .num_info {
+	FLOAT: left; PADDING-TOP: 10px
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info {
+	
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images {
+	POSITION: relative; FLOAT: left; MARGIN: 0px 8px
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images IMG {
+	OVERFLOW: hidden; HEIGHT: 90px; WIDTH: 120px; DISPLAY: block
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images A SPAN {
+	HEIGHT: 18px; WIDTH: 24px; POSITION: absolute; DISPLAY: block
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images A SPAN.play_button_lb {
+	LEFT: 10px; BOTTOM: 10px
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/ranking/img_005/play_rec_off_1.png) no-repeat center center
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: url(g/ranking/img_005/play_rec_on_1.png) no-repeat center center
+}
+* HTML .sys_data_num_video_title_list_line .list_info_h .headline_info .images A SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="../images/img_005/play_rec_off_1.png")
+}
+* HTML .sys_data_num_video_title_list_line .list_info_h .headline_info .images A:hover SPAN.play_button_lb SPAN.lb {
+	BACKGROUND: none transparent scroll repeat 0% 0%; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src="../images/img_005/play_rec_on_1.png")
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .headline_title {
+	
+}
+.sys_data_num_video_title_list_line .list_info_h .headline_info .headline_title .par {
+	COLOR: #fa8a00
+}
+.sys_data_num_video_title_list_line .xline {
+	BORDER-TOP: #ccc 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_video_title_list_line .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_img_btitle_list {
+	WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_img_btitle_list .list_info {
+	POSITION: relative; MARGIN-LEFT: 8px
+}
+.sys_data_num_img_btitle_list .list_info .num_info {
+	HEIGHT: 13px; POSITION: absolute; FLOAT: left; TOP: 50%
+}
+.sys_data_num_img_btitle_list .list_info .num_info IMG {
+	POSITION: relative; TOP: -50%
+}
+.sys_data_num_img_btitle_list .list_info .text_info {
+	PADDING-LEFT: 25px
+}
+.sys_data_num_img_btitle_list .list_info_h .num_info {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_img_btitle_list .list_info_h .headline_info {
+	MARGIN-BOTTOM: 5px; MARGIN-LEFT: 35px
+}
+.sys_data_num_img_btitle_list .list_info_h .headline_info .images {
+	
+}
+.sys_data_num_img_btitle_list .list_info_h .headline_info .images IMG {
+	OVERFLOW: hidden; MAX-WIDTH: 900px; HEIGHT: 90px; WIDTH: 120px; DISPLAY: block; MAX-HEIGHT: 662px
+}
+.sys_data_num_img_btitle_list .list_info_h .headline_info .headline_title {
+	
+}
+.sys_data_num_img_btitle_list .list_info .more {
+	COLOR: #999; PADDING-RIGHT: 10px
+}
+.sys_data_num_img_btitle_list .xline {
+	BORDER-BOTTOM: #dbdbdb 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_num_img_btitle_list .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist .list_info .num_info {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 4px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist .list_info .num_info IMG {
+	
+}
+.sys_data_numlist .list_info .text_info {
+	PADDING-LEFT: 10px
+}
+.sys_data_numlist .list_info .pre {
+	FLOAT: right; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_numlist .xline {
+	BORDER-BOTTOM: #dbdbdb 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist_item {
+	
+}
+.sys_data_numlist_item LI {
+	HEIGHT: 30px; BORDER-BOTTOM: #ccc 1px dotted; LINE-HEIGHT: 30px
+}
+.sys_data_numlist_item LI .num_info {
+	BORDER-TOP: #db2b28 1px solid; HEIGHT: 16px; BORDER-RIGHT: #db2b28 1px solid; BACKGROUND: #ed4138; BORDER-BOTTOM: #db2b28 1px solid; FLOAT: left; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; BORDER-LEFT: #db2b28 1px solid; MARGIN: 6px 0px 0px; LINE-HEIGHT: 16px; PADDING-RIGHT: 5px
+}
+.sys_data_numlist_item LI .num_info_1 {
+	BORDER-TOP: #ccc 1px solid; HEIGHT: 16px; BORDER-RIGHT: #ccc 1px solid; BACKGROUND: #ddd; BORDER-BOTTOM: #ccc 1px solid; FLOAT: left; COLOR: #333; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; BORDER-LEFT: #ccc 1px solid; MARGIN: 6px 0px 0px; LINE-HEIGHT: 16px; PADDING-RIGHT: 5px
+}
+.sys_data_numlist_item LI .text_info {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist_item LI .text_info .pre {
+	FLOAT: right
+}
+.sys_data_numlist_trend .list_info .num_info {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 4px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist_trend .list_info .num_info IMG {
+	
+}
+.sys_data_numlist_trend .list_info .text_info {
+	PADDING-LEFT: 10px
+}
+.sys_data_numlist_trend .list_info .trend_info {
+	FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 4px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_numlist_trend .list_info .pre {
+	FLOAT: right; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_numlist_trend .xline {
+	BORDER-BOTTOM: #dbdbdb 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numlist_trend .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numclick_list .list_info .num_info {
+	FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px
+}
+.sys_data_numclick_list .list_info .num_info IMG {
+	
+}
+.sys_data_numclick_list .list_info .text_info {
+	PADDING-LEFT: 10px
+}
+.sys_data_numclick_list .list_info .pre {
+	FLOAT: right; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_numclick_list .xline {
+	BORDER-BOTTOM: #dbdbdb 1px dashed; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numclick_list .line {
+	BORDER-BOTTOM: #dbdbdb 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.sys_data_numclick_list .sort_front_red {
+	BACKGROUND: url(g/ranking/img_006/red_sort.gif) no-repeat 8px top
+}
+.sys_data_numclick_list .sort_front_gray {
+	BACKGROUND: url(g/ranking/img_006/gray_sort.gif) no-repeat 8px top
+}
+.sys_data_numclick_list .sort_front_red SPAN.number {
+	WIDTH: 20px; COLOR: #fff; TEXT-ALIGN: center; MARGIN-RIGHT: 12px; TEXT-INDENT: 5px
+}
+.sort_front_gray SPAN.number {
+	WIDTH: 20px; COLOR: #fff; TEXT-ALIGN: center; MARGIN-RIGHT: 12px; TEXT-INDENT: 5px
+}
+.sys_data_pos_nav {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+.sys_data_pos_nav LI {
+	FLOAT: left
+}
+.sys_data_pos_nav LI A {
+	MARGIN: 0px 5px
+}
+.sys_data_page {
+	
+}
+.sys_data_page UL {
+	POSITION: relative; FLOAT: left; LEFT: 50%
+}
+.sys_data_page LI {
+	FONT-FAMILY: "verdana", arial; RIGHT: 50%; POSITION: relative; FLOAT: left; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px
+}
+.sys_data_page LI SPAN.curpage {
+	COLOR: #f36000
+}
+.sys_data_page LI SPAN.currecords {
+	COLOR: #f36000
+}
+.sys_data_page LI.on {
+	FONT-WEIGHT: bold; COLOR: #999
+}
+.sys_data_page .skip {
+	
+}
+.sys_data_page LI .skip_box {
+	BORDER-TOP: #999 1px solid; HEIGHT: 20px; BORDER-RIGHT: #999 1px solid; WIDTH: 22px; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #999 1px solid; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: #999 1px solid; MARGIN: 0px 3px; PADDING-RIGHT: 0px
+}
+.sys_data_page LI .skip_btn {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 22px; FONT-FAMILY: Verdana; WIDTH: 30px; VERTICAL-ALIGN: middle; BACKGROUND: url(img/m/cms/btn-001.gif) 0px 0px; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.sys_img_140_105 DL {
+	WIDTH: 140px
+}
+.sys_img_140_105 DL DT IMG {
+	HEIGHT: 105px; WIDTH: 140px
+}
+.sys_img_140_105 .images_td {
+	WIDTH: 146px
+}
+.sys_img_120_90 DL {
+	WIDTH: 120px
+}
+.sys_img_120_90 DL DT IMG {
+	HEIGHT: 90px; WIDTH: 120px
+}
+.sys_img_120_90 .images_td {
+	WIDTH: 126px
+}
+.sys_img_40_30 DL {
+	WIDTH: 40px
+}
+.sys_img_40_30 DL DT IMG {
+	HEIGHT: 30px; WIDTH: 40px
+}
+.sys_img_40_30 .images_td {
+	WIDTH: 46px
+}
+.sys_img_105_140 DL {
+	WIDTH: 105px
+}
+.sys_img_105_140 DL DT IMG {
+	HEIGHT: 140px; WIDTH: 105px
+}
+.sys_img_105_140 .images_td {
+	WIDTH: 111px
+}
+.sys_img_90_120 DL {
+	WIDTH: 90px
+}
+.sys_img_90_120 DL DT IMG {
+	HEIGHT: 120px; WIDTH: 90px
+}
+.sys_img_90_120 .images_td {
+	WIDTH: 96px
+}
+.sys_img_30_40 DL {
+	WIDTH: 30px
+}
+.sys_img_30_40 DL DT IMG {
+	HEIGHT: 40px; WIDTH: 30px
+}
+.sys_img_30_40 .images_td {
+	WIDTH: 36px
+}
+.sys_data_auto_list {
+	OVERFLOW: hidden
+}
+.sys_data_auto_list .title {
+	DISPLAY: block
+}
+.sys_data_auto_list .title A {
+	OVERFLOW: hidden; TEXT-DECORATION: none; WHITE-SPACE: nowrap; TEXT-OVERFLOW: ellipsis; DISPLAY: block; -o-text-overflow: ellipsis
+}
+.sys_data_auto_list .time {
+	FLOAT: right
+}
+.sys_data_auto_list .ding {
+	FLOAT: left
+}
+.sys_data_auto_list .sort {
+	FLOAT: left
+}
+.sys_data_auto_list .title {
+	_float: left
+}
+* HTML .sys_data_auto_list .title {
+	
+}
+* HTML .sys_data_auto_list .title A {
+	WIDTH: 100%
+}
