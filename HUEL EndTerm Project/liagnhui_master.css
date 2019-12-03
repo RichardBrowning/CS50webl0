@@ -14,7 +14,7 @@
 	TEXT-DECORATION: none; BACKGROUND-POSITION: left top; COLOR: #006699
 }
 .nav UL LI A.hide {
-	TEXT-DECORATION: none; HEIGHT: 48px; WIDTH: 114px; FONT-WEIGHT: bold; COLOR: #ffffff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 48px; PADDING-RIGHT: 0px
+	TEXT-DECORATION: none; HEIGHT: 48px; WIDTH: 114px; FONT-WEIGHT: bold; COLOR: red; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; DISPLAY: block; LINE-HEIGHT: 48px; PADDING-RIGHT: 0px
 }
 .menu {
 	MARGIN: 0px
@@ -77,7 +77,7 @@
 	WIDTH: 100%; DISPLAY: block
 }
 .wrapper {
-	
+
 }
 .tool {
 	HEIGHT: 35px; COLOR: #fff; TEXT-ALIGN: right; LINE-HEIGHT: 35px
@@ -92,10 +92,10 @@
 	WIDTH: 100%; POSITION: absolute; Z-INDEX: 200000; DISPLAY: block; TOP: 275px
 }
 .top_menu {
-	HEIGHT: 48px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; WIDTH: 1040px; BACKGROUND: url(../images/nav_bg.png) left top; MARGIN-LEFT: auto; DISPLAY: block; MARGIN-RIGHT: auto
+	HEIGHT: 48px; FONT-FAMILY: "Î¢ï¿½ï¿½ï¿½Åºï¿½"; WIDTH: 1040px; BACKGROUND: url(../images/nav_bg.png) left top; MARGIN-LEFT: auto; DISPLAY: block; MARGIN-RIGHT: auto
 }
 .tool .main {
-	FONT-FAMILY: "ËÎÌå"; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
+	FONT-FAMILY: "ï¿½ï¿½ï¿½ï¿½"; COLOR: #999; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px auto; PADDING-RIGHT: 0px
 }
 .tool .main A {
 	COLOR: #333
@@ -212,7 +212,7 @@
 	BORDER-TOP: #e3f4fc 1px solid; BACKGROUND: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px
 }
 .page {
-	
+
 }
 .pages {
 	PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 0px; CLEAR: both; PADDING-RIGHT: 0px
@@ -338,7 +338,7 @@ A.dz_icon IMG {
 	FONT-SIZE: 14px; HEIGHT: 32px; WIDTH: 96%; BACKGROUND: #000; POSITION: absolute; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 2%; LEFT: 0px; LINE-HEIGHT: 32px; PADDING-RIGHT: 2%; BOTTOM: 0px
 }
 
-@media Unknown    
+@media Unknown
 {
 .wid_turn {
 	DISPLAY: none
